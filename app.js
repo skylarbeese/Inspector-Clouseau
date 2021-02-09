@@ -1,8 +1,8 @@
 let header = document.querySelector('.comp') 
-header.innerHTML = "Joes Bed and breakfist"
+header.innerHTML = "Inspector Clouseau"
 
 let header1 = document.querySelector('.header2') 
-header1.innerHTML = "Joes Bed and breakfist the best place in utah"
+header1.innerHTML = "hello this is Inspector Clouseau"
 
 
 function reDisplay() {
